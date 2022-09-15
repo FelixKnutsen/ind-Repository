@@ -7,7 +7,7 @@
 </head>
 
 <body>
-<p>hva skjer</p>
+<p>hva skjera</p>
 
 </body>
 
